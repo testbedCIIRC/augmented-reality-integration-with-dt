@@ -10,7 +10,7 @@ This repository contains files for the paper titled "Integrating Augmented Reali
 
 - **Photos from Hololens 2 headset:** Showcasing the user interface (UI) for different robotic manufacturing systems.
 - **Videos from Hololens 2 headset:** Demonstrating the control of robotic systems using the Hololens headset.
-- **Control Algorithms and Programs** Includes comprehensive control algorithms and programs for the robotic controller.
+- **Control Algorithms and Programs:** Includes comprehensive control algorithms and programs for the robotic controller.
 
 # Key Features
 
