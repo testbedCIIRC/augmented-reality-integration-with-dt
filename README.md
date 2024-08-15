@@ -19,3 +19,7 @@ This repository contains files for the paper titled "Integrating Augmented Reali
 - **Virtual Robot Controller and Operator Training:** The virtual robot controller allows for safe and flexible manipulation outside the actual work cell, providing an effective platform for training future operators and testing new procedures without disrupting ongoing manufacturing processes.
 - **Seamless Integration with Existing Systems:** The architecture integrates with existing robotic controllers and OPC UA communication protocols, facilitating seamless interaction between digital and physical components in the manufacturing process.
 - **Augmented Reality Integration:** The system leverages Hololens 2 headsets to create an immersive AR interface, enhancing operator interaction with digital twins in robotic manufacturing environments.
+
+# Video
+[![Watch the video](https://img.youtube.com/vi/n_qs-5frZwE/0.jpg)](https://youtu.be/n_qs-5frZwE)
+[![Watch the video](https://img.youtube.com/vi/_4w9cyadrJE/0.jpg)](https://youtu.be/_4w9cyadrJE)
