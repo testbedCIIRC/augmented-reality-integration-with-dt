@@ -22,5 +22,5 @@ This repository contains files for the paper titled "Integrating Augmented Reali
 
 # Video
 [![Watch the video](https://img.youtube.com/vi/_4w9cyadrJE/0.jpg)](https://youtu.be/_4w9cyadrJE)
-[![Watch the video](https://img.youtube.com/vi/n_qs-5frZwE/0.jpg)](https://youtu.be/n_qs-5frZwE)
+[![Watch the video](https://img.youtube.com/vi/YLn5BhKOQH4/0.jpg)](https://youtu.be/YLn5BhKOQH4)
 
