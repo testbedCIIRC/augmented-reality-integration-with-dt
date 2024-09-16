@@ -1,5 +1,5 @@
 ## Integrating Augmented Reality within Digital Twins for Smart Robotic Manufacturing Systems ##
-This repository contains files for the paper titled "Integrating Augmented Reality within Digital Twins for Smart Robotic Manufacturing Systems," with Tomáš Jochman as the main author.
+This repository contains files for the paper titled "Integrating Augmented Reality within Digital Twins for Smart Robotic Manufacturing Systems," with Tomáš Jochman as the main author. To get the source codes and project, please contact one of the authors tomas.jochman@cvut.cz or pavel.burget@cvut.cz.
 
 Citation: T. Jochman et al., “Integrating augmented reality within digital twins for smart robotic manufacturing systems,” in 2024 29th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA). Padova, Italy: IEEE, 2024.
 
